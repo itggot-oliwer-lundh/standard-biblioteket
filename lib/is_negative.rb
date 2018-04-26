@@ -4,7 +4,7 @@
 #
 # Examples
 #
-#   is_negative(5)
+#   is_negative(-5)
 #   # => 'true'
 #
 #   is_negative(2)
