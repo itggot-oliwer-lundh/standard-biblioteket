@@ -4,10 +4,10 @@
 #
 # Examples
 #
-#   is_even(5)
+#   is_negative(5)
 #   # => 'true'
 #
-#   is_even(2)
+#   is_negative(2)
 #   # => 'false'
 #
 # Returns true if the Integer is negative.
